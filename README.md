@@ -1,5 +1,5 @@
 # Online Code Editor 
-Deployment: https://online-code-editor-react.vercel.app/
+Deployment: [https://online-code-editor-react-opal.vercel.app/]
 
 ## Libraries used: codemirror & react-codemirror2
 ## Created Online code editor that resides on a remote server and is accessible via browsers. This online code editor have basic features like syntax highlighting.
